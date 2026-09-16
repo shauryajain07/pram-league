@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+actual_vs_predicted.png
+premier_league_attackers_2023-24_with_performance_index.csv
